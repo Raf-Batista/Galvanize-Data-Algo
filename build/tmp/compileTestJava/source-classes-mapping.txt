@@ -4,3 +4,5 @@ QueueTest.java
  QueueTest
 StackTest.java
  StackTest
+QuickSortTests.java
+ QuickSortTests
