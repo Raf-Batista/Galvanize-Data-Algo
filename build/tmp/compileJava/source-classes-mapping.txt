@@ -9,5 +9,7 @@ Queue.java
  Queue$Node
 QuickSort.java
  QuickSort
+BubbleSort.java
+ BubbleSort
 MergeSort.java
  MergeSort

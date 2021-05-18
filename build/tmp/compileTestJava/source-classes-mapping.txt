@@ -8,3 +8,5 @@ QuickSortTests.java
  QuickSortTests
 MergeSortTests.java
  MergeSortTests
+BubbleSortTests.java
+ BubbleSortTests
