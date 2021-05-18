@@ -1,3 +1,5 @@
+package Algorithms;
+
 public class BubbleSort {
     /*
         Runtime O(n^2) Average and Worst Case.Memory O(1)

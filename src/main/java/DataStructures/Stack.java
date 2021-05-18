@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class Stack {
     public class Node {
         public Stack.Node next;

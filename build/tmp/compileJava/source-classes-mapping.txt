@@ -1,15 +1,15 @@
-Stack.java
- Stack
- Stack$Node
-MyLinkedList.java
- MyLinkedList
- MyLinkedList$Node
-Queue.java
- Queue
- Queue$Node
 QuickSort.java
  QuickSort
-BubbleSort.java
- BubbleSort
 MergeSort.java
  MergeSort
+BubbleSort.java
+ BubbleSort
+DataStructures/Queue.java
+ DataStructures.Queue
+ DataStructures.Queue$Node
+DataStructures/MyLinkedList.java
+ DataStructures.MyLinkedList
+ DataStructures.MyLinkedList$Node
+DataStructures/Stack.java
+ DataStructures.Stack
+ DataStructures.Stack$Node
