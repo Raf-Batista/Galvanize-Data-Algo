@@ -1,9 +1,3 @@
-QuickSort.java
- QuickSort
-MergeSort.java
- MergeSort
-BubbleSort.java
- BubbleSort
 DataStructures/Queue.java
  DataStructures.Queue
  DataStructures.Queue$Node
@@ -13,3 +7,11 @@ DataStructures/MyLinkedList.java
 DataStructures/Stack.java
  DataStructures.Stack
  DataStructures.Stack$Node
+Algorithms/BubbleSort.java
+ Algorithms.BubbleSort
+Problems/Arrays/LeftRotation.java
+ Problems.Arrays.LeftRotation
+Algorithms/QuickSort.java
+ Algorithms.QuickSort
+Algorithms/MergeSort.java
+ Algorithms.MergeSort

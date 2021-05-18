@@ -1,12 +1,14 @@
-QuickSortTests.java
- QuickSortTests
-MergeSortTests.java
- MergeSortTests
-DataStructures/QueueTest.java
- DataStructures.QueueTest
 DataStructures/LinkedListTest.java
  DataStructures.LinkedListTest
-BubbleSortTests.java
- BubbleSortTests
 DataStructures/StackTest.java
  DataStructures.StackTest
+DataStructures/QueueTest.java
+ DataStructures.QueueTest
+Algorithms/BubbleSortTests.java
+ Algorithms.BubbleSortTests
+Algorithms/QuickSortTests.java
+ Algorithms.QuickSortTests
+Algorithms/MergeSortTests.java
+ Algorithms.MergeSortTests
+Problems/Arrays/LeftRotationTests.java
+ Problems.Arrays.LeftRotationTests
