@@ -1,11 +1,13 @@
 Stack.java
  Stack
  Stack$Node
-QuickSort.java
- QuickSort
-Queue.java
- Queue
- Queue$Node
 MyLinkedList.java
  MyLinkedList
  MyLinkedList$Node
+Queue.java
+ Queue
+ Queue$Node
+QuickSort.java
+ QuickSort
+MergeSort.java
+ MergeSort

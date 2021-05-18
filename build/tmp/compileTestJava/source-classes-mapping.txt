@@ -6,3 +6,5 @@ StackTest.java
  StackTest
 QuickSortTests.java
  QuickSortTests
+MergeSortTests.java
+ MergeSortTests
